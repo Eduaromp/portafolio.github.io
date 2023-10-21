@@ -123,6 +123,11 @@ main > span {
     padding-bottom: 30px;
 }
 
+.info h3 {
+    margin-inline: 35px;
+    margin-bottom: 15px;
+}
+
 .info img {
     width: 80%;
     border-radius: 8px;
